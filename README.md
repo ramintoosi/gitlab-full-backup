@@ -21,6 +21,8 @@ private_token = YOUR_ACCESS_TOKEN
 api_version = 4
 ~~~
 run full backup
+
+NOTE: I assume that you are clonning with your ssh key otherwise please edit [backup.py](backup.py) based on your preferred way.
 ~~~
 python back.py
 ~~~
