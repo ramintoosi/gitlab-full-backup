@@ -7,7 +7,7 @@ install python-gitlab
 ~~~
 pip install --upgrade python-gitlab
 ~~~
-add your access token to [config.cfg](config.cfg)
+add your [access token](https://gitlab.com/profile/personal_access_tokens) to [config.cfg](config.cfg)
 ~~~
 
 [global]
